@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **prralhadtathe007@gmail.com** For Collaboration/Project or
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** pralhadtathe007@gmail.com
 - 😄 **Pronouns:** prashh
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
 
 ## 🌐 Socials:
