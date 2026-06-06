@@ -5,7 +5,6 @@ Email Me 👉 ✉️ **prralhadtathe007@gmail.com** For Collaboration/Project or
 
 -  **I’m 2nd year BTech student , AI & Data Scince.** 
 -  **I’m currently learning:** Data analytics & Full stack Devlopment
--  **Ask me about:** Collaboration, Tech Support
 -  **How to reach me:** pralhadtathe007@gmail.com
 
 
