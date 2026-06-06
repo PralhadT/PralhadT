@@ -1,13 +1,13 @@
-# 💫 Hi 👋, I'm Pralhad Tathe
+#  Hi 👋, I'm Pralhad Tathe
 **A passionate About Data Analytics, Data Science and Concepts regarding AI & Ml**
 
-Email Me 👉 ✉️ **prralhadtathe007@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **prralhadtathe007@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 **I’m 2nd year BTech student , AI & Data Scince.** 
-- 🌱 **I’m currently learning:** Data analytics & Full stack Devlopment
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** pralhadtathe007@gmail.com
-- 😄 **Pronouns:** prashh
+-  **I’m 2nd year BTech student , AI & Data Scince.** 
+-  **I’m currently learning:** Data analytics & Full stack Devlopment
+-  **Ask me about:** Collaboration, Tech Support
+-  **How to reach me:** pralhadtathe007@gmail.com
+
 
 
 
