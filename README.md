@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **prralhadtathe007@gmail.com** For Collaboration/Project or
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/prashh)][![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PralhadTathe)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pralhadtathe007@gmail.com)]
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/prashh)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PralhadTathe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pralhadtathe007@gmail.com)
 
 
 
