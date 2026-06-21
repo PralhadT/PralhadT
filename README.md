@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Pralhad Tathe
-**A passionate About Data Analytics, Data Science and Concepts regarding AI & Ml**
+**A passionate About Data Science and  AI , Machine learning**
 
 Email Me 👉 ✉️ **prralhadtathe007@gmail.com** For Collaboration/Project or Anything Else. 
 
