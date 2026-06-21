@@ -1,7 +1,7 @@
 #  Hi, I'm Pralhad Tathe
 **A passionate About Data Science, AI and Machine learning**
 
-Email Me ✉️ **prralhadtathe007@gmail.com** For Collaboration/Project or Anything Else. 
+Email Me **pralhadtathe007@gmail.com** For Collaboration/Project or Anything Else. 
 
 -  **I’m 2nd year BTech student , AI & Data Scince.** 
 -  **I’m currently learning:** Data analytics & Full stack Devlopment
